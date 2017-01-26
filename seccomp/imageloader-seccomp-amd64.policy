@@ -55,4 +55,5 @@ sysinfo: 1
 tgkill: 1
 uname: 1
 unlink: 1
+waitid: 1
 write: 1
